@@ -1,2 +1,4 @@
 # hello-world
-This is a test repository to understand how github works.
+
+
+This was created with the help of the github guide.
